@@ -1,16 +1,14 @@
-package musicPlayer;
+package com.example.mmmusicplayer;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-
-import com.example.mmmusicplayer.R;
 
 public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_singer);
+        setContentView(R.layout.activity_main);
     }
 }
