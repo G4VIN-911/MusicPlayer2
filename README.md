@@ -29,7 +29,6 @@
 │   ├── entity                  //音乐实体类
 │   ├── musicService            //服务类
 │   ├── Util                    //工具类
-│       └── config.js         // 提供给前端的配置
 ### 6. MMMusicPlayer 项目联系人
 #####	 (1)高宇
 ###### (2)朱昕宇
