@@ -22,7 +22,6 @@
 ##### -拖动seekbar可调整播放进度
 
 ### 5.MMMusicPlayer代码结构说明
-
 ├──java
 │   ├── adaper                  //调整布局
 │   ├── component               //自定义组件
